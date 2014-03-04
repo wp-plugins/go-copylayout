@@ -16,6 +16,11 @@ This isn’t a magical solution that keeps your site widget configurations in
 sync. Instead, it provides a portable configuration set that can be
 consumed on your myriad of development (and production) sites.
 
+=== Links ===
+
+* [WordPress plugin page](http://wordpress.org/plugins/go-copylayout/)
+* [GitHub repo](https://github.com/GigaOM/go-copylayout)
+
 == Installation ==
 
 1. Upload `go-copylayout` to the `/wp-content/plugins/` directory
